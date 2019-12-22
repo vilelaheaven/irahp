@@ -2,51 +2,51 @@
 /* mudanças adap. fb to pha */
 
 .navbar {
-	background-color: #ecebeb;
+	background-color: #ecebeb!important;
 }
 
 .fundo-mega-menu {
-	background-color: #e0e0e0;
+	background-color: #e0e0e0!important;
 }
 
 .top-bubble {
-	background-color: #333;
+	background-color: #333!important;
 }
 
 .middle-bubble {
-	background-color: #333;
+	background-color: #333!important;
 }
 
 .top-bubble {
-	background-color: #333;
+	background-color: #333!important;
 }
 
 .texto-menu-abrir {
-	background-color: #333;
+	background-color: #333!important;
 }
 
 .itens-menu {
-	background-color: #333;
+	background-color: #333!important;
 }
 
 .btn-buscar {
-	background-color: #62abb8;
+	background-color: #62abb8!important;
 }
 
 .icones-conta-cart {
-	background-color: #fff;
+	background-color: #fff!important;
 }
 
 .texto-minha-conta {
-	color: #333;
+	color: #333!important;
 }
 
 .cart-value {
-	color: #333;
+	color: #333!important;
 }
 
 .botao-comprar-produto {
-	background-color: rgb(64, 154, 192);
+	background-color: rgb(64, 154, 192)!important;
 }
 
 
